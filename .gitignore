@@ -40,3 +40,8 @@ Thumbs.db
 # THE MOUSE DATA BASE #
 #######################
 mouseDB.mat
+
+
+# FILES FOR SYNCing PC=>extHD  #
+################################
+SyncToy*
